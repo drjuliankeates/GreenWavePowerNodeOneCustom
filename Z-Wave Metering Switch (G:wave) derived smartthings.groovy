@@ -12,7 +12,7 @@
  *
  */
 metadata {
-	definition (name: "Z-Wave Metering Switch (G/wave) derived smartthings", namespace: "keateshome.com", author: "SmartThings") {
+	definition (name: "Z-Wave Metering Switch (G/wave) derived smartthings", namespace: "YOURNAMESPACEHERE", author: "SmartThings") {
 		capability "Energy Meter"
 		capability "Actuator"
 		capability "Switch"
